@@ -6,6 +6,7 @@ Understanding user intent and identifying if task creation is required.
 Invoking the Asana API to create the task and providing feedback.
 
 Features & Functionalities
+
 ✅ Conversational AI Task Management – Users can chat with the AI to add tasks in Asana.
 ✅ Dynamic Task Creation – Tasks can be scheduled for specific dates or default to today.
 ✅ Asana API Integration – Automatically creates tasks in specified projects.
@@ -13,6 +14,7 @@ Features & Functionalities
 ✅ Memory Persistence – The conversation history is maintained for context-aware responses.
 
 How It Works
+
 User inputs a message (e.g., "Create a task: Submit report by tomorrow")
 AI processes the request and determines if a task needs to be created.
 AI calls Asana API to create the task with relevant details (task name, due date, project ID).
